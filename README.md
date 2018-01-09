@@ -1,7 +1,8 @@
 # The basecs series
 __A compiled, chronological list of content from the [basecs series](https://medium.com/basecs).__
 
-This series builds upon itself. It is recommended to read the content in order if you are new to computer science!🙂
+This series builds upon itself. It is recommended to read the content in order if you are new to computer science! 🙂
+The basecs series was created with 💛 in 2017 by [Vaidehi](https://twitter.com/vaidehijoshi).
 
 ### January		
 - [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
@@ -75,4 +76,4 @@ This series builds upon itself. It is recommended to read the content in order i
 - [A Most Perfect Union: Just-In-Time Compilers](https://medium.com/basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a)
 
 
-_The basecs series was created with 💛 in 2017 by [Vaidehi](https://twitter.com/vaidehijoshi)._
+_For even more basecs-related content, check out [the basecs podcast](https://www.codenewbie.org/basecs)!_
